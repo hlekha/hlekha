@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align=center>
+  <img width="1000" height="600" alt="gif" src="https://github.com/user-attachments/assets/50d543d4-bf84-4d0e-b900-9356a9b23a80" />
+</p>
 <!--
 **hlekha/hlekha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

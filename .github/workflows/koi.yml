@@ -1,0 +1,26 @@
+name: Generate Git Koi
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every night at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Koi GIF
+        uses: yalongwastaken/git-koi@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update git-koi animation"
+          file_pattern: "*.gif"

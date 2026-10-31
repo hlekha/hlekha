@@ -30,7 +30,7 @@ Finally, I am also a project member in the Financial Quants & Engineers club. He
 
 Can be found [here](https://github.com/BaruchFinancialQuantsEngineers-FQE/options_market_making).
 
-
+<img src="koi/koi.gif" width="256" alt="My koi" />
 
 <!--
 - 🔭 I’m currently working on ...

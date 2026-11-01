@@ -2,14 +2,20 @@
 <!--
 **hlekha/hlekha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align="center">
-  <a href="[https://www.linkedin.com/in/hayden-lekha/"><img scr="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
-  <a href="haydenlekha@gmail.com"><img scr="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-</p>
-
 <p align=center>
   <img width="397" height="298" alt="giphy" src="https://github.com/user-attachments/assets/4c283ac7-b179-43f3-a70c-86b26fca9931" />
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hayden-lekha/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
+  </a>
+  <a href="mailto:haydenlekha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
 
 
 # A Little About Me
@@ -37,6 +43,8 @@ Can be found [here](https://github.com/BaruchFinancialQuantsEngineers-FQE/option
 <p align=center>
   <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -23,11 +23,31 @@ I am an undergraduate student studying Financial Mathematics at Baruch College. 
 
 # What I'm Working On
 
+* <h3> Market Making Agent </h3>
+
+Finally, I am also a project member in the Financial Quants & Engineers club. Here I am working on a project which quotes the optimal bid and ask to maximize profit from the spread using a reinforcement learning model that implements the Glosten-Milgrom model, and Avellaneda-Stoikov model.
+
+Can be found [here](https://github.com/BaruchFinancialQuantsEngineers-FQE/options_market_making).
+
 * <h3> Quantum Mechanics </h3>
 
 I'm currently working on my Quantum Mechanics repository. This is for my Special Topics in Theoretical Physics class, where I am self-studying Quantum Mechanics. In this repository I code certain problems, and concepts seen in the book. To see more on this journey you can go to.
 
 Can be found [here](https://github.com/hlekha/QuantumMechanics).
+
+
+
+
+
+# My Magnum Opus
+
+My proudest project so far is my Poker Agent. This is agentic code meant to optimize the performance in a game of Heads Up No Limit Texas Hold'em.
+
+Can be found [here](https://github.com/hlekha/PokerAI).
+
+It has its flaws but I plan to fix them all once Fall semester is over.
+
+# What Else I've Done
 
 * <h3> Jane Street "It's a Metric, Too" Puzzle Solver </h3>
 
@@ -35,11 +55,19 @@ I'm also finishing up on an algorithm to solve the October 2026 Jane Street puzz
 
 Can be found [here](https://github.com/hlekha/janestreet-puzzle_10-26).
 
-* <h3> Market Making Agent </h3>
+* <h3> Solar System </h3>
 
-Finally, I am also a project member in the Financial Quants & Engineers club. Here I am working on a project which quotes the optimal bid and ask to maximize profit from the spread using a reinforcement learning model that implements the Glosten-Milgrom model, and Avellaneda-Stoikov model.
+Once I learned about the gravitational laws that hold our universe together in my Physics on the Computer class, I wanted to further visualize and represent this in Python. As a result, I created this project. This helps to observe the physics at play such as Newton's Gravitational Laws, Kepler's Laws, and the characteristics that come out of these laws.
 
-Can be found [here](https://github.com/BaruchFinancialQuantsEngineers-FQE/options_market_making).
+Can be found [here](https://github.com/hlekha/SolarSystem).
+
+* <h3> Equity Screener </h3>
+
+A project I completed for the UBS Stock Competition. This projects views stocks from a relative valuation perspective using Z-scores, and a plethora of financial ratios.
+
+Can be found [here](https://github.com/hlekha/EquityScreener).
+
+
 <p align=center>
   <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
